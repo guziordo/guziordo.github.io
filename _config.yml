@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Douglas Guzior"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Microbial Biochemist actively investigating novel bile acid metabolism by the gut microbiome."
+  location         : "East Lansing, MI"
+  employer         : "Michigan State University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=douglas+guzior"
+  googlescholar    : "https://scholar.google.com/citations?user=aAlRwjkAAAAJ&hl=en"
+  email            : "doug.guzior@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Douglas-Guzior" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "guziordo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7019-3261"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "DVGMicrobe"
   vine             :
   weibo            :
   xing             :
