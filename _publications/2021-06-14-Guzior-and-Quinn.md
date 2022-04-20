@@ -5,7 +5,7 @@ permalink: /publication/2021-06-14-Guzior-and-Quinn
 excerpt: 'This review summarizes recent literature known about microbial bile acid transformations in addition to discussing a novel fifth transformation, microbial bile acid conjugation.'
 date: 2021-06-14
 venue: 'Microbiome'
-paperurl: 'http://guziordo.github.io/files/Guzior_and_Quinn_2021.pdf'
+paperurl: 'https://doi.org/10.1186/s40168-021-01101-1'
 citation: 'Guzior DV, Quinn RA. 2021. Review: microbial transformations of human bile acids. Microbiome 9:140.'
 ---
 **Abstract**
