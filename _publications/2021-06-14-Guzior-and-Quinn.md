@@ -1,5 +1,5 @@
 ---
-title: "Review: microbial transformations of human bile acids.
+title: "Review: microbial transformations of human bile acids."
 collection: publications
 permalink: /publication/2021-06-14-Guzior-and-Quinn
 excerpt: 'This review summarizes recent literature known about microbial bile acid transformations in addition to discussing a novel fifth transformation, microbial bile acid conjugation.'
