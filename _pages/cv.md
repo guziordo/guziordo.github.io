@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Microbiology and Molecular Genetics, Michigan State University, 2024 (expected)
+  * Mentor: [Robert A. Quinn, Ph.D.](https://scholar.google.com/citations?hl=en&user=xn7bbDgAAAAJ)
+* B.S. in Microbiology, Ohio State University, 2019
+  * Mentors: [Paul Stoodley, Ph.D.](https://scholar.google.co.uk/citations?user=zSvkvEcAAAAJ&hl=en) and [Sashwati Roy, Ph.D.](https://scholar.google.com/citations?user=07xgmtMAAAAJ&hl=en)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student Researcher, August 2019 to Present
+  * Michigan State University
+  * Duties included: Extracting metabolites from various sample types, performing mass spectrometry-based analysis, extracting microbial DNA from biological samples, performing 16S amplicon sequencing-based analysis, training colleagues on specialized lab equipment, routine maintenance of the laboratory.
+  * Supervisor: Robert Quinn, Ph.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Research Assistant, 
+  * The Ohio State University
+  * Duties included: Performing analysis via plate reader, data presentation and interpretation, routine maintenance of the laboratory.
+  * Supervisor: Paul Stoodley, Ph.D.
+
+* Undergraduate Research Assistant, 
+  * The Ohio State University
+  * Duties included: Aiding in large animal experiments, tissue preservation and sectioning, immunohistochemical staining and interpretation, routine maintenance of the laboratory.
+  * Supervisor: Sashwati Roy, Ph.D.
 
 Publications
 ======
@@ -53,7 +50,41 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+ 
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Microbiology and Molecular Biology
+  * Aerobic and Anaerobic bacterial culture of BSL1 and BSL2 organisms
+  * Bacterial transformation
+  * Primer design, Polymerase Chain Reaction (PCR)
+* Mass Spectrometry
+  * QExactive Hybrid Quadrupole Orbitrap MS
+  * SIRIUS structural prediction
+  * Data mining (MZmine2)
+  * [Global Natural Products Social Molecular Networking](gnps.ucsd.edu) annotation
+* Information Technology
+  * R coding language
+  * QIIME2
+  * QIITA
+  * ZEN Slide Imaging
+  * ImageJ
+* Histology
+  * Paraffin wax-embedded and OCT-embedded tissue sectioning
+  * Immunohistochemical staining
+  
+Professional Memberships
+======
+* **American Society for Microbiology**, 2022 to Present
+* **Metabolomics Association of North America**, 2021 to Present
+
+Service
+======
+* **Be the Match**, *Donor*, 2020
+* **St. Baldricks Foundation**, *Shavee*, 2015-
+* **American Red Cross**, *Donor*, 2015-2019
+
+Leadership
+======
+* Graduate Committee Representative, 2022-2023
+* Vice President, Phi Kappa Theta Fraternity, 2017
+* Eagle Scout, Boy Scouts of America
