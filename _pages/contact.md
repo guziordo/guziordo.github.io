@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Douglas Guzior, Contact Info"
 excerpt: ""
