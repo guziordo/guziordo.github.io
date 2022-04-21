@@ -23,12 +23,12 @@ Work experience
   * Duties included: Extracting metabolites from various sample types, performing mass spectrometry-based analysis, extracting microbial DNA from biological samples, performing 16S amplicon sequencing-based analysis, training colleagues on specialized lab equipment, routine maintenance of the laboratory.
   * Supervisor: Robert Quinn, Ph.D.
 
-* Undergraduate Research Assistant, 
+* Undergraduate Research Assistant, September 2018 to July 2019
   * The Ohio State University
   * Duties included: Performing analysis via plate reader, data presentation and interpretation, routine maintenance of the laboratory.
   * Supervisor: Paul Stoodley, Ph.D.
 
-* Undergraduate Research Assistant, 
+* Undergraduate Research Assistant, March 2017 to September 2018
   * The Ohio State University
   * Duties included: Aiding in large animal experiments, tissue preservation and sectioning, immunohistochemical staining and interpretation, routine maintenance of the laboratory.
   * Supervisor: Sashwati Roy, Ph.D.
