@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Microbiologist, Biochemist, Data Scientist"
   location         : "Lansing, MI"
-  employer         : ""
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=douglas+guzior"
   googlescholar    : "https://scholar.google.com/citations?user=aAlRwjkAAAAJ&hl=en"
   email            : "doug.guzior@gmail.com"
