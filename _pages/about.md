@@ -17,7 +17,7 @@ Lorem ipsum
 
 My background
 ------
-I received my B.S. from the [Ohio State University](https://www.osu.edu/) in Microbiology. I graduated with research distinction in Microbiology
+I received my B.S. from the [Ohio State University](https://www.osu.edu/) in Microbiology. I graduated with research distinction in Microbiology, where my [undergraduate thesis](https://kb.osu.edu/handle/1811/87372) delved into further understanding the role of synovial fluid components in *Staphylococcus aureus* aggregation.
 
 My breadth of scientific community
 ------
