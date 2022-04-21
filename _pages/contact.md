@@ -5,7 +5,7 @@ title: "Contact"
 excerpt: ""
 author_profile: true
 ---
-Below is my email in addition to a few other internet locales. This should also make it easier if someone were to search "doug guzior email", taking them right to this contact page.
+Below is my email in addition to a few other internet locales. I look forward to hearing from you!
 
 Email: doug.guzior [at] gmail.com
 
