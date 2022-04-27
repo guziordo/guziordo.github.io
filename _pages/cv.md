@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Cirriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="Douglas Guzior - CV.pdf" width="1000" height="1000" type='application/pdf'/><object>
+<embed src="https://guziordo.github.io/pdfs/Douglas Guzior - CV.pdf" width="100%" height="850px"/>
