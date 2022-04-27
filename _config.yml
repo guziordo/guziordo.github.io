@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _news
   - scope:
       path: ""
-      type: posts
+      type: news
     values:
       layout: single
       author_profile: true
