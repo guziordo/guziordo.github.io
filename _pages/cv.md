@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://guziordo.github.io/pdfs/Douglas Guzior - CV.pdf" width="100%" height="850px"/>
+<embed src="https://guziordo.github.io/files/Douglas Guzior - CV.pdf" width="100%" height="100%"/>
