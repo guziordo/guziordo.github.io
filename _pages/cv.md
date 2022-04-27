@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <embed src="https://guziordo.github.io/pdfs/Douglas Guzior - CV.pdf" width="100%" height="850px"/>
