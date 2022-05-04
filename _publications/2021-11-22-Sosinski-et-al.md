@@ -8,6 +8,8 @@ venue: 'Journal of Cystic Fibrosis'
 paperurl: 'https://doi.org/10.1016/j.jcf.2021.11.003'
 citation: 'Sosinski LM, H CM, Neugebauer KA, Ghuneim L-AJ, Guzior DV, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2021. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung. J Cyst Fibros https://doi.org/10.1016/j.jcf.2021.11.003.'
 ---
+<a href="http://guziordo.github.io/files/Sosinski_et_al_2021.pdf>Download PDF here</a>.
+
 **Abstract**
 *Background*
 Elexacaftor-Tezacaftor-Ivacaftor (ETI) therapy is showing promising efficacy for treatment of cystic fibrosis (CF) and is becoming more widely available since recent FDA approval. However, little is known about how these drugs will affect lung infections, which are the leading cause of morbidity and mortality among people with CF (pwCF).
@@ -23,5 +25,3 @@ ETI therapy is associated with a changing microbiome and metabolome in airway mu
 
 *Funding*
 This project was funded by a National Institute of Allergy and Infectious Disease Grant R01AI145925
-
-[Download paper here](http://guziordo.github.io/files/Sosinski_et_al_2021.pdf)
