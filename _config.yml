@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aAlRwjkAAAAJ&hl=en"
   email            : "doug.guzior@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Douglas-Guzior" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Douglas-Guzior"
   uri              :
   bitbucket        :
   codepen          :
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
- # _posts
+ # _news
   - scope:
       path: ""
       type: posts
