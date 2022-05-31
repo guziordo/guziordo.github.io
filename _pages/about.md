@@ -11,7 +11,7 @@ Welcome! My name is Doug, I'm currently a doctoral candidate within the [Departm
 
 Current work and research
 -----
-I use a mix of experiments at the benchtop and computational analysis to further understand bile acid conjugation by microbes in our gut.
+I use a mix of experiments at the benchtop and computational analysis to further understand the mechanisms behind bile acid conjugation by microbes in our gut. Bile acids are key molecules in nutrient absorption and and cell signalling, although they have also been implicated in gut disbiosis and cancer. Microbially modified bile acids, such as deoxycholic acid and lithocholic acid, are noteably carcinogenic. However, little is known about microbially conjugated bile acids and my work seeks to uncover the consequences of this novel bile acid transformation. 
 
 My background
 ------
