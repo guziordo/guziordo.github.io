@@ -3,6 +3,7 @@ title: 'Website Launch!'
 date: 2022-05-09
 collection: news
 permalink: /news/2022/05/website-launch/
+excerpt: ""
 tags:
   - general
   - dogs
