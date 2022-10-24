@@ -11,4 +11,6 @@ tags:
 
 Welcome to the initial version of my professional website, chronicalling my journey through my graduate career as I pursue a Ph.D. in Microbiology and Molecular Genetics! I will be routinely updating this website to include new publications, posters, and talks. If you have any questions about my work or my experiences, don't be afraid to reach out!
 
-![](guziordo.github.io/photos/News_Photos/poppy-site-launch.png)
+<img src="photos/News_Photos/poppy-site-launch.png"
+     alt="Poppy, a 2 year old golden retriever, in the grass"
+     style="float: left; margin-right: 10px;" />
