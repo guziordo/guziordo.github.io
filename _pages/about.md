@@ -19,4 +19,4 @@ I received my B.S. from the [Ohio State University](https://www.osu.edu/) in Mic
 
 My scientific communities
 ------
-My research touches on several diverse, but related, scientific communities. I have experience in the fields of Microbial Pathogenesis and Genetics, Microbial Ecology, Molecular Biology, in addition to Mass Spectrometry and Protein Biochemistry. Within these domains, I rely heavily on computational methods to investigate the significance of, and further contextualize, my work. This breadth of community has resulted in frequent collaborations across and within these domains, often resulting in publications in high-impact, peer reviewed journals.
+My research touches on several diverse, but related, scientific communities. I have experience in the fields of microbial pathogenesis, microbial ecology, and molecular biology in addition to mass spectrometry and protein biochemistry. Within these domains, I rely heavily on computational methods to investigate the significance of, and further contextualize, my work. This breadth of community has resulted in frequent collaborations that often resulted in high-impact publications.
