@@ -1,5 +1,5 @@
 ---
-title: "*BAAT* gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice"
+title: "BAAT gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice"
 collection: publications
 permalink: /publication/2022-10-13-Neugebauer-et-al
 excerpt: 'Knocking out the murine host's primary method of bile acid conjugation results in alterd early life development, shifted gastrointestinal microbiomes, and the appearance of unusual conjugated bile acids.'
