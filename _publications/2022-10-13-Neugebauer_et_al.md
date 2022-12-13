@@ -1,5 +1,5 @@
 ---
-title: "Baat gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice"
+title: "_Baat_ gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice"
 collection: publications
 permalink: /publication/2022-10-13-Neugebauer-et-al
 excerpt: 'Bile acid conjugation is important for early life development of mice, as knocking out the gene responsible for canonical murine bile acid conjugation results in significant physiological deficits early in life.'
