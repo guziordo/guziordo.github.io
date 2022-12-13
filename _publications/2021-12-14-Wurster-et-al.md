@@ -1,12 +1,12 @@
 ---
-title: "Streptozotocin-Induced Hyperglycemia Alters the Cecal Metabolome and Exacerbates Antibiotic-Induced Dysbiosis"
+title: "Streptozotocin-induced hyperglycemia alters the cecal Metabolome and exacerbates antibiotic-induced dysbiosis"
 collection: publications
 permalink: /publication/2021-12-14-Wurster-et-al
 excerpt: 'Further understanding the impacts of antibiotics on the cecal microbiome and metabolome in the context of hyperglycemia.'
 date: 2021-12-14
 venue: 'Cell Reports'
 paperurl: 'http://dx.doi.org/10.1016/j.celrep.2021.110113'
-citation: 'Wurster JI, Peterson RL, Brown CE, Penumutchu S, Guzior DV, Neugebauer K, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. Cell Rep 37:110113.'
+citation: 'Wurster JI, Peterson RL, Brown CE, Penumutchu S, Guzior DV, Neugebauer K, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. _Cell Rep_ 37:110113.'
 ---
 [Download PDF here](http://guziordo.github.io/files/Wurster_et_al_2021.pdf)
 

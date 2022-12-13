@@ -6,7 +6,7 @@ excerpt: 'Bile acid conjugation is important for early life development of mice,
 date: 2022-05-21
 venue: 'Journal of Lipid Research'
 paperurl: 'https://doi.org/10.1016/j.jlr.2022.100297'
-citation: 'Neugebauer KA, Okros M, Guzior DV, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe L, Quinn RA. 2022. Baat gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice. J. Lipid Res. doi: 10.1016/j.jlr.2022.100297'
+citation: 'Neugebauer KA, Okros M, Guzior DV, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe L, Quinn RA. 2022. _Baat_ gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice. _J. Lipid Res_ 63(12):100297.'
 ---
 [Download PDF here](http://guziordo.github.io/files/Neugebauer_et_al_2022.pdf)
 

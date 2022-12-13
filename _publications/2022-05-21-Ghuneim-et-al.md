@@ -2,11 +2,11 @@
 title: "Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection"
 collection: publications
 permalink: /publication/2022-05-21-Ghuneim-et-al
-excerpt: 'Changes in the cystic fibrosis lung can be predicted utilizing in silico models and further validated with in vitro experiments.'
+excerpt: 'Changes in the cystic fibrosis lung can be predicted utilizing _in silico_ models and further validated with experiments _in vitro_.'
 date: 2022-05-21
 venue: 'The ISME Journal'
 paperurl: 'https://doi.org/10.1038/s41396-022-01252-5'
-citation: 'Ghuneim LAJ, Raghuvanshi R, Neugebauer KA, Guzior DV, Martin H. C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. ISME J. doi:10.1038/s41396-022-01252-5'
+citation: 'Ghuneim LAJ, Raghuvanshi R, Neugebauer KA, Guzior DV, Martin H. C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. _ISME J_ 16:2065–2075.'
 ---
 [Download PDF here](http://guziordo.github.io/files/Ghuneim_et_al_2022.pdf)
 

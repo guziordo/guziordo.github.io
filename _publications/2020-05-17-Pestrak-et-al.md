@@ -1,12 +1,12 @@
 ---
-title: "Investigation of synovial fluid induced Staphylococcus aureus aggregate development and its impact on surface attachment and biofilm formation"
+title: "Investigation of synovial fluid induced _Staphylococcus aureus_ aggregate development and its impact on surface attachment and biofilm formation"
 collection: publications
 permalink: /publication/2020-05-17-Pestrak-et-al
 excerpt: 'This paper describes how various components found within synovial fluid, the biological lubricant present in joints, can impact aggregation and surface attachment during infection.'
 date: 2020-05-17
 venue: 'PLoS ONE'
 paperurl: 'https://doi.org/10.1371/journal.pone.0231791'
-citation: 'Pestrak MJ, Gupta TT, Dusane DH, Guzior DV, Staats A, Harro J, Horswill AR, Stoodley P. 2020. Investigation of synovial fluid induced Staphylococcus aureus aggregate development and its impact on surface attachment and biofilm formation. PLoS One 15:e0231791.'
+citation: 'Pestrak MJ, Gupta TT, Dusane DH, Guzior DV, Staats A, Harro J, Horswill AR, Stoodley P. 2020. Investigation of synovial fluid induced Staphylococcus aureus aggregate development and its impact on surface attachment and biofilm formation. _PLoS One_ 15(4):e0231791.'
 ---
 [Download PDF here](http://guziordo.github.io/files/Pestrak_et_al_2020.pdf)
 
