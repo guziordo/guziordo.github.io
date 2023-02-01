@@ -13,3 +13,4 @@ location: "East Lansing, Michigan"
 - Place: Online, via Zoom
 
 **Overview**
+Functioned as a graduate teaching assistant for two sections of an undergraduate introductory microbiology course. This course was run as a flipped-classroom - students were asked to watch lecture videos released one week prior to the class period followed by working with a group to complete in-class problem sets. 
