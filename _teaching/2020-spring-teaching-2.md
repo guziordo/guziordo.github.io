@@ -13,3 +13,6 @@ location: "East Lansing, Michigan "
 - Place: Online, via Zoom
 
 **Overview**
+Functioned as a graduate teaching assistant for an undergraduate microbiology lab course held in tandem with an introduction to microbiology lecture (MMG301). 
+
+Responsibilities included grading virtual lab assignments, presenting background information prior to in-class activities, and leading weekly recitations to reinforce students' understanding of topics discussed during the previous lab period.
