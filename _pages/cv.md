@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download CV [here](https://guziordo.github.io/files/Douglas_Guzior_CV.pdf)
+Available [here](https://guziordo.github.io/files/Douglas_Guzior_CV.pdf)
