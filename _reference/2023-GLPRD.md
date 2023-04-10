@@ -1,7 +1,7 @@
 ---
-permalink: /reference/2023-GLPRD/
-collection: reference
+layout: archive
 title: "2023 Great Lakes Pediatric Research Day"
+permalink: /reference/2023-GLPRD/
 author_profile: true
 ---
 # Microbiome and metabolome dynamics during the first year of life
