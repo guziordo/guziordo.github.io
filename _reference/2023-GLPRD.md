@@ -1,8 +1,9 @@
 ---
-layout: archive
 title: "2023 Great Lakes Pediatric Research Day"
+collection: reference
 permalink: /reference/2023-GLPRD/
 author_profile: true
+date: 2023-04-12
 ---
 # Microbiome and metabolome dynamics during the first year of life
 **Douglas V. Guzior<sup>1,2</sup>**, Hao Wu<sup>3</sup>, Christian Martin<sup>2</sup>, Madison R. Rzepka<sup>2</sup>, Kerri A. Neugebauer<sup>4</sup>, Julie Lumeng<sup>5-7</sup>, Gustavo de los Campos<sup>3,8</sup>, Robert A. Quinn<sup>2</sup>

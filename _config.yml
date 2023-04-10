@@ -121,6 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _reference
   - files
 exclude:
   - "*.sublime-project"
@@ -210,6 +211,13 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _reference
+  - scope:
+      path: ""
+      type: reference
     values:
       layout: single
       author_profile: true
