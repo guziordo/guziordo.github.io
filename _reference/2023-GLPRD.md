@@ -1,6 +1,6 @@
 ---
-permalink: /conferences/2023-GLPRD/
-collection: reference-lists
+permalink: /reference/2023-GLPRD/
+collection: reference
 title: "2023 Great Lakes Pediatric Research Day"
 author_profile: true
 ---
