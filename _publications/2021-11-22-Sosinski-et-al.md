@@ -6,7 +6,7 @@ excerpt: 'The first description of how Elexacaftor-Tezacaftor-Ivacaftor, also kn
 date: 2021-11-22
 venue: 'Journal of Cystic Fibrosis'
 paperurl: 'https://doi.org/10.1016/j.jcf.2021.11.003'
-citation: 'Sosinski LM, H CM, Neugebauer KA, Ghuneim L-AJ, Guzior DV, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2021. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung. J Cyst Fibros 21(6):996-1005.'
+citation: 'Sosinski LM, H CM, Neugebauer KA, Ghuneim L-AJ, Guzior DV, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2021. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung. J Cyst Fibros 21(6):996-1005. doi:10.1016/j.jcf.2021.11.003'
 ---
 [Download PDF here](http://guziordo.github.io/files/Sosinski_et_al_2021.pdf)
 

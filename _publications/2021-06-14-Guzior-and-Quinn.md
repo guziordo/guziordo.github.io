@@ -6,7 +6,7 @@ excerpt: 'This review summarizes recent literature known about microbial bile ac
 date: 2021-06-14
 venue: 'Microbiome'
 paperurl: 'https://doi.org/10.1186/s40168-021-01101-1'
-citation: 'Guzior DV, Quinn RA. 2021. Review: microbial transformations of human bile acids. Microbiome 9:140.'
+citation: 'Guzior DV, Quinn RA. 2021. Review: microbial transformations of human bile acids. Microbiome 9(1):140. doi:10.1186/s40168-021-01101-1'
 ---
 [Download PDF here](http://guziordo.github.io/files/Guzior_and_Quinn_2021.pdf)
 
