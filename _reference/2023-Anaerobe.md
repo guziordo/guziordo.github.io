@@ -23,4 +23,3 @@ Bile acids (BAs), the dominant chemicals in bile, play key roles in nutrient abs
 3. https://doi.org/10.1159/000450907 no deconjugation = dysbiosis
 4. https://doi.org/10.3389%2Ffmicb.2017.01581 staph antimicrobial
 5. https://doi.org/10.1016/j.mrrev.2004.08.001 
-6. 
