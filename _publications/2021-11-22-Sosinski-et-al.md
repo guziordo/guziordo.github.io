@@ -10,7 +10,8 @@ citation: 'Sosinski LM, H CM, Neugebauer KA, Ghuneim L-AJ, Guzior DV, Castillo-B
 ---
 [Download PDF here](http://guziordo.github.io/files/Sosinski_et_al_2021.pdf)
 
-**Abstract**
+# Abstract
+
 *Background*
 Elexacaftor-Tezacaftor-Ivacaftor (ETI) therapy is showing promising efficacy for treatment of cystic fibrosis (CF) and is becoming more widely available since recent FDA approval. However, little is known about how these drugs will affect lung infections, which are the leading cause of morbidity and mortality among people with CF (pwCF).
 
