@@ -11,7 +11,7 @@ title                    : "Douglas Guzior"
 title_separator          : "-"
 name                     : &name "Douglas Guzior"
 description              : &description "Personal Website for Douglas V. Guzior"
-url                      : https://guziordo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://guziordo.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guziordo/guziordo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Doug Guzior"
   avatar           : "profile.png"
-  bio              : "Microbiologist, Biochemist, and budding Data Scientist. <br> <br> Doctoral Candidate at Michigan State University, <a style='color: black;' href='http://mmg.natsci.msu.edu'>Department of Microbiology and Molecular Genetics</a> under the guidance of <a style='color: black;' href='https://www.robertquinnlab.com'>Robert Quinn</a>."
+  bio              : "Microbiologist, Biochemist, and budding Data Scientist. <br> <br> Doctoral candidate at Michigan State University, <a style='color: black;' href='http://mgi.natsci.msu.edu'>Department of Microbiology, Genetics, and Immunology</a> under the guidance of <a style='color: black;' href='https://www.robertquinnlab.com'>Robert A. Quinn</a>."
   location         : "East Lansing, MI"
   employer         : 
   pubmed           : 

@@ -18,8 +18,14 @@ Bile acids (BAs), the dominant chemicals in bile, play key roles in nutrient abs
 
 
 ## Works Referenced
-1. Guzior and Quinn
-2. Quinn et al, 2020
-3. https://doi.org/10.1159/000450907 no deconjugation = dysbiosis
-4. https://doi.org/10.3389%2Ffmicb.2017.01581 staph antimicrobial
-5. https://doi.org/10.1016/j.mrrev.2004.08.001 
+1. Guzior, D. V. & Quinn, R. A. Review: microbial transformations of human bile acids. *Microbiome* **9**, 140 (2021).
+
+2. Quinn, R. A. *et al.* Global chemical effects of the microbiome include new bile-acid conjugations. *Nature* **579**, 123–129 (2020).
+
+3. Joyce, S. A. & Gahan, C. G. M. Disease-associated changes in bile acid profiles and links to altered gut microbiota. *Digestive Diseases* **35**, 169–177 (2017).
+
+4. Sannasiddappa, T. H., Lund, P. A. & Clarke, S. R. In vitro antibacterial activity of unconjugated and conjugated bile salts on Staphylococcus aureus. *Front. Microbiol.* **8**, 1581 (2017).
+
+5. Bernstein, H., Bernstein, C., Payne, C. M., Dvorakova, K. & Garewal, H. Bile acids as carcinogens in human gastrointestinal cancers. *Mutat Res Rev Mutat Res* **589**, 47–65 (2005).
+
+6. Bernstein, C. *et al.* Carcinogenicity of deoxycholate, a secondary bile acid. *Arch. Toxicol.* **85**, 863–871 (2011).
