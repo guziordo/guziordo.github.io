@@ -5,8 +5,8 @@ permalink: /publication/2023-12-16-Martin-et-al
 excerpt: 'Investigation into prolonged effects of ETI therapy on patients with cystic fibroses showed enhanced lung function and more varied lung microbiomes over time, even though colonization with CF pathogens are still prevalent.'
 date: 2023-12-16
 venue: 'Respiratory Research'
-paperurl: 'https://doi.org/10.1186/s12931-023-02630-z'
-citation: 'Martin C, Guzior DV, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. Respir Res 24, 317. doi: 10.1186/s12931-023-02630-z'
+paperurl: 'doi.org/10.1186/s12931-023-02630-z'
+citation: 'Martin C, Guzior DV, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. Respir Res 24, 317.'
 ---
 [Download PDF here](http://guziordo.github.io/files/Martin_et_al_2023.pdf)
 
