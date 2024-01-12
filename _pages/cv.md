@@ -26,27 +26,36 @@ Mentor: Robert A. Quinn, Ph.D.
 ### Thesis: Determining the impact of host-synovial fluid factors on Staphylococcus aureus aggregation
 Mentors: Paul Stoodley, Ph.D. and Sashwati Roy, Ph.D.
 
+# Additional Positions
+## Visiting Graduate Researcher (March 2023)
+Wellcome Sanger Institute | Cambridge, England, UK
+Mentors: Trevor Lawley, Ph.D. and Hilary Browne, Ph.D.
+
+* Taught untargeted mass spectrometry experimental design, sample preparation, and analysis techniques.
+* Collaborated on a project focused on identifying metabolic product differences in related
+*Bifidobacterium* species.
+
 # Publications
 
 **Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller A, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. *Nature*. [Accepted for Publication]
 
 Chargo NJ, Patel K, Shashank R, Chougule A, ****Guzior DV****, Regnery L, Gardinier JD, Quinn RA, Parameswaran N, McCabe LR. 2023. Dietary prune improves gut barrier function, alters gut microbiota composition, and improves bone density in healthy female mice. *Front Cell Dev Biol*. [Accepted for Publication]
 
-Martin C, **Guzior DV**, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. *Respir Res* **24**:317. doi: [10.1186/s12931-023-02630-z](doi.org/10.1186/s12931-023-02630-z)
+Martin C, **Guzior DV**, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. *Respir Res* **24**:317. doi: [10.1186/s12931-023-02630-z](https://doi.org/10.1186/s12931-023-02630-z)
 
-Quinn RA, Martin C, **Guzior DV**. 2023. A multi-omic trip through the human gut. *Nat Metab* **5**:720–721. doi: [10.1038/s42255-023-00773-3](doi.org/10.1038/s42255-023-00773-3)
+Quinn RA, Martin C, **Guzior DV**. 2023. A multi-omic trip through the human gut. *Nat Metab* **5**:720–721. doi: [10.1038/s42255-023-00773-3](https://doi.org/10.1038/s42255-023-00773-3)
 
-Neugebauer KA, Okros M, **Guzior DV**, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe LR, Quinn RA. 2022. Baat gene knockout alters post-natal development, the gut microbiome, and reveals unusual bile acid conjugates in mice. *J Lipid Res* **63**:100297. doi: [10.1016/j.jlr.2022.100297](doi.org/10.1016/j.jlr.2022.100297)
+Neugebauer KA, Okros M, **Guzior DV**, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe LR, Quinn RA. 2022. Baat gene knockout alters post-natal development, the gut microbiome, and reveals unusual bile acid conjugates in mice. *J Lipid Res* **63**:100297. doi: [10.1016/j.jlr.2022.100297](https://doi.org/10.1016/j.jlr.2022.100297)
 
-Ghuneim L-AJ, Raghuvanshi R, Neugebauer KA, **Guzior DV**, Martin C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. *ISME J* **16**:2065–2075. doi: [10.1038/s41396-022-01252-5](10.1038/s41396-022-01252-5)
+Ghuneim L-AJ, Raghuvanshi R, Neugebauer KA, **Guzior DV**, Martin C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. *ISME J* **16**:2065–2075. doi: [10.1038/s41396-022-01252-5](https://doi.org/10.1038/s41396-022-01252-5)
 
-Sosinski LM, Martin C, Neugebauer KA, Ghuneim L-AJ, **Guzior DV**, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2022. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung.  *J Cyst Fibros* **21**:996–1005. doi: [10.1016/j.jcf.2021.11.003](10.1016/j.jcf.2021.11.003)
+Sosinski LM, Martin C, Neugebauer KA, Ghuneim L-AJ, **Guzior DV**, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2022. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung.  *J Cyst Fibros* **21**:996–1005. doi: [10.1016/j.jcf.2021.11.003](https://doi.org/10.1016/j.jcf.2021.11.003)
 
-Wurster JI, Peterson RL, Brown CE, Penumutchu S, **Guzior DV**, Neugebauer KA, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. *Cell Rep* **37**:110113. doi: [10.1016/j.celrep.2021.110113](doi.org/10.1016/j.celrep.2021.110113)
+Wurster JI, Peterson RL, Brown CE, Penumutchu S, **Guzior DV**, Neugebauer KA, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. *Cell Rep* **37**:110113. doi: [10.1016/j.celrep.2021.110113](https://doi.org/10.1016/j.celrep.2021.110113)
 
-**Guzior DV**, Quinn RA. 2021. Review: microbial transformations of human bile acids. Microbiome 9:140. doi: [10.1186/s40168-021-01101-1](doi.org/10.1186/s40168-021-01101-1)
+**Guzior DV**, Quinn RA. 2021. Review: microbial transformations of human bile acids. Microbiome 9:140. doi: [10.1186/s40168-021-01101-1](https://doi.org/10.1186/s40168-021-01101-1)
 
-Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, Stoodley P. 2020. Investigation of synovial fluid induced Staphylococcus aureus aggregate development and its impact on surface attachment and biofilm formation. *PLoS ONE* **15**:e0231791. doi: [10.1371/journal.pone.0231791](10.1371/journal.pone.0231791)
+Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, Stoodley P. 2020. Investigation of synovial fluid induced Staphylococcus aureus aggregate development and its impact on surface attachment and biofilm formation. *PLoS ONE* **15**:e0231791. doi: [10.1371/journal.pone.0231791](https://doi.org/10.1371/journal.pone.0231791)
 
 # Conference Presentations
 
