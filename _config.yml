@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Doug Guzior"
+  name             : "Douglas Guzior"
   avatar           : "profile.png"
-  bio              : "Microbiologist, Biochemist, and budding Data Scientist. <br> <br> Doctoral candidate at Michigan State University, <a style='color: black;' href='http://mgi.natsci.msu.edu'>Department of Microbiology, Genetics, and Immunology</a> under the guidance of <a style='color: black;' href='https://www.robertquinnlab.com'>Robert A. Quinn</a>."
+  bio              : "Gut Microbiologist, Biochemist, and Data Scientist. <br> <br> Doctoral candidate at Michigan State University, <a style='color: black;' href='http://mgi.natsci.msu.edu'>Department of Microbiology, Genetics, & Immunology</a> under the guidance of <a style='color: black;' href='https://www.robertquinnlab.com'>Robert A. Quinn</a>."
   location         : "East Lansing, MI"
   employer         : 
   pubmed           : 
