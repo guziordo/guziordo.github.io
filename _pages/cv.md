@@ -71,63 +71,70 @@ Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, S
 
 ## *Talks*
 
-**Guzior DV**, Wu H, Martin C, Rzepka M, Neugebauer KA, Lumeng J, de los Campos G, Quinn RA. Developmental dynamics of the infant fecal metabolome. <br> MANA 2023 | October 2023 | Columbia, MO
+**Guzior DV**, Wu H, Martin C, Rzepka M, Neugebauer KA, Lumeng J, de los Campos G, Quinn RA. Developmental dynamics of the infant fecal metabolome. 
+<br> MANA 2023 | October 2023 | Columbia, MO
 
 **Guzior DV**, Quinn RA. Bile salt hydrolase aminoacyltransferase activity from gut anaerobes expands the human bile acid pool. 
 <br> Anaerobe 2023 | July 2023 | Cardiff, Wales, UK | *Awarded Best Offered Talk*
 
-**Guzior DV**, Quinn RA. Reversing Dogma: Bile Salt Hydrolase. <br> Anaerobe Congress | July 2022 | Seattle, WA
+**Guzior DV**, Quinn RA. Reversing Dogma: Bile Salt Hydrolase. 
+<br> Anaerobe Congress | July 2022 | Seattle, WA
 
 ## *Posters*
 
-**Guzior DV**, Wu H, Martin C, Rzepka M, Neugebauer K, Lumeng J, de los Campos G, Quinn RA. Microbiome and metabolome dynamics during the first year of life. <br> Great Lakes Pediatric Research Day | April 2023 | Grand Rapids, MI
+**Guzior DV**, Wu H, Martin C, Rzepka M, Neugebauer K, Lumeng J, de los Campos G, Quinn RA. Microbiome and metabolome dynamics during the first year of life. 
+<br> Great Lakes Pediatric Research Day | April 2023 | Grand Rapids, MI
 
-**Guzior DV**, Quinn RA. Diversity and phylogenetic relationships of bile acid conjugation within the Lachnospiraceae. <br> ASM Microbe | June 2022 | Washington, D.C.
+**Guzior DV**, Quinn RA. Diversity and phylogenetic relationships of bile acid conjugation within the Lachnospiraceae. 
+<br> ASM Microbe | June 2022 | Washington, D.C.
 
-**Guzior DV**, Quinn RA. Analyzing the diversity of in vitro microbially conjugated bile acid products. <br> 3rd Annual Metabolomics Association of North America Conference | October 2021 | Virtual
+**Guzior DV**, Quinn RA. Analyzing the diversity of in vitro microbially conjugated bile acid products. 
+<br> 3rd Annual Metabolomics Association of North America Conference | October 2021 | Virtual
 
-**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury. <br> OSUMC Research Day | April 2019 | Columbus, OH
+**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury. 
+<br> OSUMC Research Day | April 2019 | Columbus, OH
 
-**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury.  <br> Denman Undergraduate Research Forum | April 2019 | Columbus, OH.
+**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury.  
+<br> Denman Undergraduate Research Forum | April 2019 | Columbus, OH.
 
 # Awards & Fellowships
 
-Dissertation Completion Fellowship | The Graduate School | Michigan State University | 2024
+Dissertation Completion Fellowship, The Graduate School, Michigan State University, 2024
 
-Graduate School Travel Fellowship | The Graduate School | Michigan State University | 2023
+Graduate School Travel Fellowship, The Graduate School, Michigan State University, 2023
 
-Ralph Evans Award | Department of Microbiology, Genetics, & Immunology | Michigan State University | 2023
+Ralph Evans Award, Department of Microbiology, Genetics, & Immunology, Michigan State University, 2023
 
-Outstanding Scholar Fellowship | College of Natural Science | Michigan State University | 2022-2023
+Outstanding Scholar Fellowship, College of Natural Science, Michigan State University, 2022-2023
 
-Philipp and Vera Gerhardt Award | Department of Microbiology, Genetics, & Immunology | Michigan State University | 2021
+Philipp and Vera Gerhardt Award, Department of Microbiology, Genetics, & Immunology, Michigan State University, 2021
 
 # Professional Memberships
 
-Microbiology Society | 2023-Present
+Microbiology Society, 2023-Present
 
-American Society for Microbiology | 2021-Present
+American Society for Microbiology, 2021-Present
 
-Metabolomics Association of North America | 2020-Present
+Metabolomics Association of North America, 2020-Present
 
 # Service & Leadership
 
-Annual Fundraiser and Shavee, over $8,000 raised | [St. Baldrick’s Foundation](https://www.stbaldricks.org/) | 2015-Present 
+Annual Fundraiser and Shavee, over $8,000 raised, [St. Baldrick’s Foundation](https://www.stbaldricks.org/), 2015-Present 
 
-Graduate Student Mentor | [Graduate Recruitment Initiative Team](https://biomolecular.natsci.msu.edu/applicants/graduate-recruitment-initiative-team-grit.aspx) | Michigan State University | 2022-2024
+Graduate Student Mentor, [Graduate Recruitment Initiative Team](https://biomolecular.natsci.msu.edu/applicants/graduate-recruitment-initiative-team-grit.aspx), Michigan State University, 2022-2024
 
-Graduate Committee Representative | Department of Microbiology, Genetics, & Immunology | Michigan State University | 2022-2024
+Graduate Committee Representative, Department of Microbiology, Genetics, & Immunology, Michigan State University, 2022-2024
 
-Volunteer | [Science Debate](https://sciencedebate.org/) - MSU Chapter | 2020
+Volunteer, [Science Debate](https://sciencedebate.org/) - MSU Chapter, 2020
 
-Donor | [Be The Match](https://bethematch.org/) | 2020
+Donor, [Be The Match](https://bethematch.org/), 2020
 
 # Skills & Expertise
 
-**Laboratory:** targeted and untargeted metabolomics | liquid chromatography-tandem mass spectrometry | microbiome analysis | 16S amplicon sequencing | bacteriology, aerobic and anaerobic | biofilm culture | primer design | polymerase chain reaction (PCR) | Gibson assembly | plasmid assembly and transformation | tissue sectioning, frozen or wax-embedded | immunohistochemistry | confocal and light microscopy | ZEN slide imaging (Zeiss Axio Scan Z1) | wound harmonic ultrasound imaging | laser speckle microperfusion imaging | general photography | digital planimetry | troubleshooting | problem-solving
+**Laboratory:** targeted and untargeted metabolomics, liquid chromatography-tandem mass spectrometry, microbiome analysis, 16S amplicon sequencing, bacteriology, aerobic and anaerobic, biofilm culture, primer design, polymerase chain reaction (PCR), Gibson assembly, plasmid assembly and transformation, tissue sectioning, frozen or wax-embedded, immunohistochemistry, confocal and light microscopy, ZEN slide imaging (Zeiss Axio Scan Z1), wound harmonic ultrasound imaging, laser speckle microperfusion imaging, general photography, digital planimetry, troubleshooting, problem-solving
 
-**Computation and Statistics:**  high-performance computing | machine learning | hierarchical cluster analysis | statistics best practices | Adobe Illustrator | data visualization 
+**Computation and Statistics:**  high-performance computing, machine learning, hierarchical cluster analysis, statistics best practices, Adobe Illustrator, data visualization 
 
-**Software:** R | Python | QIIME 2 | XCaliber | MZmine | Cytoscape | Adobe Illustrator | Microsoft Office
+**Software:** R, Python, QIIME 2, XCaliber, MZmine, Cytoscape, Adobe Illustrator, Microsoft Office
 
-**Communication:** technical writing | peer-reviewed publication | public speaking | teaching | mentorship | fostering departmental, national, and international collaboration | active listening | empathy
+**Communication:** technical writing, peer-reviewed publication, public speaking, teaching, mentorship, fostering departmental, national, and international collaboration, active listening, empathy
