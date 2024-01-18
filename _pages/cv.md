@@ -95,8 +95,7 @@ Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, S
 <br> OSUMC Research Day | April 2019 | Columbus, OH
 
 **Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury.  
-<br> Denman Undergraduate Research Forum | April 2019 | Columbus, OH.
-
+<br> Denman Undergraduate Research Forum | April 2019 | Columbus, OH
 
 # Awards & Fellowships
 
