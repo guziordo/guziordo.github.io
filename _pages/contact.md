@@ -9,6 +9,6 @@ Below is my email in addition to a few other internet locales. I look forward to
 
 Email: doug.guzior [at] gmail.com
 
-Twitter: [@DVGMicrobe](twitter.com/DVGMicrobe)
+Twitter: [@DVGMicrobe](https://twitter.com/DVGMicrobe)
 
 Google Scholar: [author:guzior-douglas](https://scholar.google.com/citations?user=aAlRwjkAAAAJ&hl=en)

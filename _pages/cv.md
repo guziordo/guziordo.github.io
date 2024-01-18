@@ -47,25 +47,25 @@ Roy Lab - *Center for Minimally Invasive Surgery, Department of Surgery*
 
 # Publications
 
-**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller A, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. *Nature*. [Accepted for Publication]
+**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller A, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature. [Accepted for Publication]
 
-Chargo NJ, Patel K, Shashank R, Chougule A, **Guzior DV**, Regnery L, Gardinier JD, Quinn RA, Parameswaran N, McCabe LR. 2023. Dietary prune improves gut barrier function, alters gut microbiota composition, and improves bone density in healthy female mice. *Front Cell Dev Biol*. [Accepted for Publication]
+Chargo NJ, Patel K, Shashank R, Chougule A, **Guzior DV**, Regnery L, Gardinier JD, Quinn RA, Parameswaran N, McCabe LR. 2023. Dietary prune improves gut barrier function, alters gut microbiota composition, and improves bone density in healthy female mice. Front Cell Dev Biol. [Accepted for Publication]
 
-Martin C, **Guzior DV**, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. *Respir Res* **24**:317. doi: [10.1186/s12931-023-02630-z](https://doi.org/10.1186/s12931-023-02630-z)
+Martin C, **Guzior DV**, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. Respir Res 24:317. doi: [10.1186/s12931-023-02630-z](https://doi.org/10.1186/s12931-023-02630-z)
 
-Quinn RA, Martin C, **Guzior DV**. 2023. A multi-omic trip through the human gut. *Nat Metab* **5**:720–721. doi: [10.1038/s42255-023-00773-3](https://doi.org/10.1038/s42255-023-00773-3)
+Quinn RA, Martin C, **Guzior DV**. 2023. A multi-omic trip through the human gut. Nat Metab 5:720–721. doi: [10.1038/s42255-023-00773-3](https://doi.org/10.1038/s42255-023-00773-3)
 
-Neugebauer KA, Okros M, **Guzior DV**, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe LR, Quinn RA. 2022. *Baat* gene knockout alters post-natal development, the gut microbiome, and reveals unusual bile acid conjugates in mice. *J Lipid Res* **63**:100297. doi: [10.1016/j.jlr.2022.100297](https://doi.org/10.1016/j.jlr.2022.100297)
+Neugebauer KA, Okros M, **Guzior DV**, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe LR, Quinn RA. 2022. Baat gene knockout alters post-natal development, the gut microbiome, and reveals unusual bile acid conjugates in mice. J Lipid Res 63:100297. doi: [10.1016/j.jlr.2022.100297](https://doi.org/10.1016/j.jlr.2022.100297)
 
-Ghuneim L-AJ, Raghuvanshi R, Neugebauer KA, **Guzior DV**, Martin C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. *ISME J* **16**:2065–2075. doi: [10.1038/s41396-022-01252-5](https://doi.org/10.1038/s41396-022-01252-5)
+Ghuneim L-AJ, Raghuvanshi R, Neugebauer KA, **Guzior DV**, Martin C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. ISME J 16:2065–2075. doi: [10.1038/s41396-022-01252-5](https://doi.org/10.1038/s41396-022-01252-5)
 
-Sosinski LM, Martin C, Neugebauer KA, Ghuneim L-AJ, **Guzior DV**, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2022. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung.  *J Cyst Fibros* **21**:996–1005. doi: [10.1016/j.jcf.2021.11.003](https://doi.org/10.1016/j.jcf.2021.11.003)
+Sosinski LM, Martin C, Neugebauer KA, Ghuneim L-AJ, **Guzior DV**, Castillo-Bahena A, Mielke J, Thomas R, McClelland M, Conrad D, Quinn RA. 2022. A restructuring of microbiome niche space is associated with Elexacaftor-Tezacaftor-Ivacaftor therapy in the cystic fibrosis lung. J Cyst Fibros 21:996–1005. doi: [10.1016/j.jcf.2021.11.003](https://doi.org/10.1016/j.jcf.2021.11.003)
 
-Wurster JI, Peterson RL, Brown CE, Penumutchu S, **Guzior DV**, Neugebauer KA, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. *Cell Rep* **37**:110113. doi: [10.1016/j.celrep.2021.110113](https://doi.org/10.1016/j.celrep.2021.110113)
+Wurster JI, Peterson RL, Brown CE, Penumutchu S, **Guzior DV**, Neugebauer KA, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. Cell Rep 37:110113. doi: [10.1016/j.celrep.2021.110113](https://doi.org/10.1016/j.celrep.2021.110113)
 
 **Guzior DV**, Quinn RA. 2021. Review: microbial transformations of human bile acids. Microbiome 9:140. doi: [10.1186/s40168-021-01101-1](https://doi.org/10.1186/s40168-021-01101-1)
 
-Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, Stoodley P. 2020. Investigation of synovial fluid induced *Staphylococcus aureus* aggregate development and its impact on surface attachment and biofilm formation. *PLoS ONE* **15**:e0231791. doi: [10.1371/journal.pone.0231791](https://doi.org/10.1371/journal.pone.0231791)
+Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, Stoodley P. 2020. Investigation of synovial fluid induced Staphylococcus aureus aggregate development and its impact on surface attachment and biofilm formation. PLoS ONE 15:e0231791. doi: [10.1371/journal.pone.0231791](https://doi.org/10.1371/journal.pone.0231791)
 
 # Conference Presentations
 
@@ -77,7 +77,7 @@ Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, S
 **Guzior DV**, Quinn RA. Bile salt hydrolase aminoacyltransferase activity from gut anaerobes expands the human bile acid pool. 
 <br> Anaerobe 2023 | July 2023 | Cardiff, Wales, UK | *Awarded Best Offered Talk*
 
-**Guzior DV**, Quinn RA. Reversing Dogma: Bile Salt Hydrolase. 
+**Guzior DV**, Quinn RA. Reversing Dogma: Bile Salt Hydrolase.
 <br> Anaerobe Congress | July 2022 | Seattle, WA
 
 ## *Posters*
@@ -85,16 +85,17 @@ Pestrak MJ, Gupta TT, Dusane DH, **Guzior DV**, Staats A, Harro J, Horswill A, S
 **Guzior DV**, Wu H, Martin C, Rzepka M, Neugebauer K, Lumeng J, de los Campos G, Quinn RA. Microbiome and metabolome dynamics during the first year of life. 
 <br> Great Lakes Pediatric Research Day | April 2023 | Grand Rapids, MI
 
-**Guzior DV**, Quinn RA. Diversity and phylogenetic relationships of bile acid conjugation within the Lachnospiraceae. 
+**Guzior DV**, Quinn RA. Diversity and phylogenetic relationships of bile acid conjugation within the *Lachnospiraceae*.
 <br> ASM Microbe | June 2022 | Washington, D.C.
 
-**Guzior DV**, Quinn RA. Analyzing the diversity of in vitro microbially conjugated bile acid products. 
+**Guzior DV**, Quinn RA. Analyzing the diversity of *in vitro* microbially conjugated bile acid products.
 <br> 3rd Annual Metabolomics Association of North America Conference | October 2021 | Virtual
 
-**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury. 
+**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury.
 <br> OSUMC Research Day | April 2019 | Columbus, OH
 
-**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury.  <br> Denman Undergraduate Research Forum | April 2019 | Columbus, OH
+**Guzior DV**, Das A, Roy S, Sen CK. Non-invasive preclinical porcine maxillofacial model to study excessive scarring of the face following burn injury.
+<br> Denman Undergraduate Research Forum | April 2019 | Columbus, OH
 
 # Awards & Fellowships
 
@@ -132,7 +133,7 @@ Donor, [Be The Match](https://bethematch.org/), 2020
 
 **Laboratory:** targeted and untargeted metabolomics, liquid chromatography-tandem mass spectrometry, microbiome analysis, 16S amplicon sequencing, bacteriology, aerobic and anaerobic, biofilm culture, primer design, polymerase chain reaction (PCR), Gibson assembly, plasmid assembly and transformation, tissue sectioning, frozen or wax-embedded, immunohistochemistry, confocal and light microscopy, ZEN slide imaging (Zeiss Axio Scan Z1), wound harmonic ultrasound imaging, laser speckle microperfusion imaging, general photography, digital planimetry, troubleshooting, problem-solving
 
-**Computation and Statistics:**  high-performance computing, machine learning, hierarchical cluster analysis, statistics best practices, Adobe Illustrator, data visualization 
+**Computation and Statistics:** high-performance computing, machine learning, hierarchical cluster analysis, statistics best practices, Adobe Illustrator, data visualization 
 
 **Software:** R, Python, QIIME 2, XCaliber, MZmine, Cytoscape, Adobe Illustrator, Microsoft Office
 
