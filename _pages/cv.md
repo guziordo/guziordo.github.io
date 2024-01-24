@@ -111,11 +111,13 @@ Philipp and Vera Gerhardt Award, Department of Microbiology, Genetics, & Immunol
 
 # Professional Memberships
 
-Microbiology Society, 2023-Present
+Metabolomics Association of North America
 
-American Society for Microbiology, 2021-Present
+American Society for Microbiology
 
-Metabolomics Association of North America, 2020-Present
+Microbiology Society
+
+Anaerobe Society of the Americas
 
 # Service & Leadership
 
