@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-## Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV-2024Jan12.pdf). 
-Last updated January 15, 2023.
+## Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV.pdf). 
+Last updated January 24, 2024.
 
 <br>
 
