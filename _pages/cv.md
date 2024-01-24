@@ -121,7 +121,7 @@ Anaerobe Society of the Americas
 
 # Service & Leadership
 
-Annual Fundraiser and Shavee, over $8,000 raised, [St. Baldrick’s Foundation](https://www.stbaldricks.org/), 2015-Present 
+Annual Fundraiser and Shavee (over $8,000 raised), [St. Baldrick’s Foundation](https://www.stbaldricks.org/), 2015-Present 
 
 Graduate Student Mentor, [Graduate Recruitment Initiative Team](https://biomolecular.natsci.msu.edu/applicants/graduate-recruitment-initiative-team-grit.aspx), Michigan State University, 2022-2024
 
