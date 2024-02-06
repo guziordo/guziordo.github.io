@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV.pdf). 
-Last updated January 24, 2024.
+Last updated February 6th, 2024.
 
 <br>
 
@@ -47,9 +47,9 @@ Roy Lab - *Center for Minimally Invasive Surgery, Department of Surgery*
 
 # Publications
 
-**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller A, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature. [Accepted for Publication]
+**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature. [Accepted for Publication]
 
-Chargo NJ, Patel K, Shashank R, Chougule A, **Guzior DV**, Regnery L, Gardinier JD, Quinn RA, Parameswaran N, McCabe LR. 2023. Dietary prune improves gut barrier function, alters gut microbiota composition, and improves bone density in healthy female mice. Front Cell Dev Biol. [Accepted for Publication]
+Chargo NJ, Neugebauer K, **Guzior DV**, Quinn RA, Parameswaran N, and McCabe LR (2024), Glucocorticoid-induced osteoporosis is prevented by dietary prune in female mice. Front Cell Dev Biol 11:1324649. doi: [10.3389/fcell.2023.1324649](https://doi.org/10.3389/fcell.2023.1324649)
 
 Martin C, **Guzior DV**, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. Respir Res 24:317. doi: [10.1186/s12931-023-02630-z](https://doi.org/10.1186/s12931-023-02630-z)
 
