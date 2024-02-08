@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV.pdf). 
-Last updated February 6th, 2024.
+Last updated February 8th, 2024.
 
 <br>
 
