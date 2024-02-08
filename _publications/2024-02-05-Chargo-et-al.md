@@ -6,7 +6,7 @@ excerpt: 'Dietary prune supplementation, even at 5%, can mitigate glucocorticoid
 date: 2024-02-05
 venue: 'Frontiers in Cell and Developmental Biology'
 paperurl: 'https://doi.org/10.3389/fcell.2023.1324649'
-citation: 'Chargo NJ, Neugebauer K, Guzior DV, Quinn RA, Parameswaran N, and McCabe LR (2024), Glucocorticoid-induced osteoporosis is prevented by dietary prune in female mice. Front. Cell Dev. Biol. 11:1324649.'
+citation: 'Chargo NJ, Neugebauer K, Guzior DV, Quinn RA, Parameswaran N, McCabe LR. 2024. Glucocorticoid-induced osteoporosis is prevented by dietary prune in female mice. Front. Cell Dev. Biol. 11:1324649.'
 ---
 [Download PDF here](http://guziordo.github.io/files/Chargo_et_al_2024.pdf)
 
