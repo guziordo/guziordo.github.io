@@ -47,7 +47,7 @@ Roy Lab - *Center for Minimally Invasive Surgery, Department of Surgery*
 
 # Publications
 
-**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature. [Accepted for Publication]
+**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature. doi: [10.1038/s41586-024-07017-8](https://doi.org/10.1038/s41586-024-07017-8)
 
 Chargo NJ, Neugebauer K, **Guzior DV**, Quinn RA, Parameswaran N, and McCabe LR (2024), Glucocorticoid-induced osteoporosis is prevented by dietary prune in female mice. Front Cell Dev Biol 11:1324649. doi: [10.3389/fcell.2023.1324649](https://doi.org/10.3389/fcell.2023.1324649)
 
