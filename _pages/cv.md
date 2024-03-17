@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV.pdf). 
-Last updated February 8th, 2024.
+Last updated March 17th, 2024.
 
 <br>
 
@@ -47,7 +47,7 @@ Roy Lab - *Center for Minimally Invasive Surgery, Department of Surgery*
 
 # Publications
 
-**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature. doi: [10.1038/s41586-024-07017-8](https://doi.org/10.1038/s41586-024-07017-8)
+**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature 626:852–858. doi: [10.1038/s41586-024-07017-8](https://doi.org/10.1038/s41586-024-07017-8)
 
 Chargo NJ, Neugebauer K, **Guzior DV**, Quinn RA, Parameswaran N, McCabe LR. 2024. Glucocorticoid-induced osteoporosis is prevented by dietary prune in female mice. Front Cell Dev Biol 11:1324649. doi: [10.3389/fcell.2023.1324649](https://doi.org/10.3389/fcell.2023.1324649)
 
@@ -137,6 +137,6 @@ Donor, [Be The Match](https://bethematch.org/), 2020
 
 **Computation and Statistics:** high-performance computing, machine learning, hierarchical cluster analysis, statistics best practices, Adobe Illustrator, data visualization 
 
-**Software:** R, Python, QIIME 2, XCaliber, MZmine, Cytoscape, Adobe Illustrator, Microsoft Office
+**Software:** R, Python, QIIME 2, XCaliber, MZmine, Cytoscape, Adobe Illustrator, Microsoft 365
 
 **Communication:** technical writing, peer-reviewed publication, public speaking, teaching, mentorship, fostering departmental, national, and international collaboration, active listening, empathy

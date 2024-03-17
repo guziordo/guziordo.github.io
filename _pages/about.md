@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### I am currently searching for opportunities following my defense in April - please reach out if you or someone you know is hiring!
-
 ## About Me
 
 My name is Doug. I'm currently a doctoral candidate within the [Department of Microbiology, Genetics, & Immunology](https://mgi.natsci.msu.edu/) at [Michigan State University](https://www.msu.edu/). I was initially trained as a microbiologist but have actively developed my skills in statistics and large data analysis, specifically that of metabolome and microbiome analysis. My current research within the lab of [Dr. Robert Quinn](https://www.robertquinnlab.com/) investigates the mechanisms and physiological consequences of bile acid metabolism by our gut microbiome. More specifically, I'm interested in microbial bile acid conjugation (first described by [Quinn *et al.*](https://www.nature.com/articles/s41586-020-2047-9) in 2020), originally thought to only be performed by the liver. 
