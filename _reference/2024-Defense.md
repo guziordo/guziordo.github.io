@@ -3,7 +3,7 @@ title: "Dissertation Defense"
 collection: reference
 permalink: /reference/2024-Defense/
 author_profile: true
-date: 2023-07-13
+date: 2024-04-24
 ---
 # Catalytic mechanisms and physiological consequences of microbial bile acid conjugation
 **Douglas V. Guzior<sup>1,2</sup>**
