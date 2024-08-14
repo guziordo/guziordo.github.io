@@ -8,7 +8,7 @@ venue: 'Cell Reports'
 paperurl: 'https://doi.org/10.1016/j.celrep.2021.110113'
 citation: 'Wurster JI, Peterson RL, Brown CE, Penumutchu S, Guzior DV, Neugebauer K, Sano WH, Sebastian MM, Quinn RA, Belenky P. 2021. Streptozotocin-induced hyperglycemia alters the cecal metabolome and exacerbates antibiotic-induced dysbiosis. Cell Rep 37(11):110113.'
 ---
-[Download PDF here](http://guziordo.github.io/files/Wurster_et_al_2021.pdf)
+[PDF Download](http://guziordo.github.io/files/Wurster_et_al_2021.pdf)
 
 # Abstract
 

@@ -8,7 +8,7 @@ venue: 'PLoS ONE'
 paperurl: 'https://doi.org/10.1371/journal.pone.0231791'
 citation: 'Pestrak MJ, Gupta TT, Dusane DH, Guzior DV, Staats A, Harro J, Horswill AR, Stoodley P. 2020. Investigation of synovial fluid induced *Staphylococcus aureus* aggregate development and its impact on surface attachment and biofilm formation. PLOS One 15(4):e0231791. '
 ---
-[Download PDF here](http://guziordo.github.io/files/Pestrak_et_al_2020.pdf)
+[PDF Download](http://guziordo.github.io/files/Pestrak_et_al_2020.pdf)
 
 # Abstract
 
