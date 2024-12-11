@@ -6,7 +6,7 @@ excerpt: 'Investigating the impact of enteric infection on the gut microbiome un
 date: 2024-05-08
 venue: 'Frontiers in Cellular and Infection Microbiology'
 paperurl: 'https://doi.org/10.3389/fcimb.2024.1359576'
-citation: 'Hansen ZA, Schilmiller AL, Guzior DV, Rudrik JT, Quinn RA, Vasco KA and Manning SD. 2024. Shifts in the functional capacity and metabolite composition of the gut microbiome during recovery from enteric infection. Nature.'
+citation: 'Hansen ZA, Schilmiller AL, Guzior DV, Rudrik JT, Quinn RA, Vasco KA and Manning SD. 2024. Shifts in the functional capacity and metabolite composition of the gut microbiome during recovery from enteric infection. .'
 ---
 [PDF Download](http://guziordo.github.io/files/Hansen_et_al_2024.pdf)
 

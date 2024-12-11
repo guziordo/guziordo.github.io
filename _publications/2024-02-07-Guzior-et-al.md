@@ -6,7 +6,7 @@ excerpt: 'Bile salt hydrolase, an enzyme with decades of research behind it, is 
 date: 2024-02-07
 venue: 'Nature'
 paperurl: 'https://doi.org/10.1038/s41586-024-07017-8'
-citation: 'Guzior DV, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller A, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase acyltransferase activity expands bile acid diversity. Nature.'
+citation: 'Guzior DV, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller A, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase acyltransferase activity expands bile acid diversity. Nature 626:852-858.'
 ---
 # Abstract
 

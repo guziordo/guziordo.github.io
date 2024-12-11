@@ -6,7 +6,7 @@ excerpt: 'Investigation into prolonged effects of ETI therapy on patients with c
 date: 2023-12-16
 venue: 'Respiratory Research'
 paperurl: 'https://doi.org/10.1186/s12931-023-02630-z'
-citation: 'Martin C, Guzior DV, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. Respir Res 24, 317.'
+citation: 'Martin C, Guzior DV, Gonzalez CT, Okros M, Mielke J, Padillo L, Thomas R, McClelland M, Conrad D, Widder S, Quinn RA. 2023. Longitudinal microbial and molecular dynamics in the cystic fibrosis lung after Elexacaftor-Tezacaftor-Ivacaftor therapy. Respir. Res. 24:317.'
 ---
 [PDF Download](http://guziordo.github.io/files/Martin_et_al_2023.pdf)
 
