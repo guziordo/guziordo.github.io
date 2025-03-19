@@ -5,10 +5,6 @@ title: "Contact"
 excerpt: ""
 author_profile: true
 ---
-Below is my email in addition to a few other internet locales. I look forward to hearing from you!
-
-Email: doug.guzior [at] gmail.com
-
-X: [@DVGMicrobe](https://twitter.com/DVGMicrobe)
+You can reach me on LinkedIn  at [linkedin.com/in/douglas-guzior/](https://www.linkedin.com/in/douglas-guzior/) or on Bluesky [@dvguz.bsky.social](https://bsky.app/profile/dvguz.bsky.social)
 
 Google Scholar: [author:guzior-douglas](https://scholar.google.com/citations?user=aAlRwjkAAAAJ&hl=en)
