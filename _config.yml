@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Douglas Guzior"
+title                    : "Doug Guzior"
 title_separator          : "-"
-name                     : &name "Douglas Guzior"
-description              : &description "Personal Website for Douglas V. Guzior"
+name                     : &name "Doug Guzior"
+description              : &description "Personal Website for Doug Guzior"
 url                      : https://guziordo.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guziordo/guziordo.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Douglas Guzior"
   avatar           : "profile.png"
-  bio              : "Gut Microbiologist, Biochemist, and Data Scientist. <br> <br> Doctoral candidate at Michigan State University, <a style='color: black;' href='http://mgi.natsci.msu.edu'>Department of Microbiology, Genetics, & Immunology</a> under the guidance of <a style='color: black;' href='https://www.robertquinnlab.com'>Robert A. Quinn</a>."
-  location         : "East Lansing, MI"
+  bio              : "Gut Microbiologist, Biochemist, and Data Scientist with expertise in multi-omics and host-microbiome interactions."
+  location         : "Ann Arbor, MI"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aAlRwjkAAAAJ&hl=en"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  mastodon         : "https://mstdn.science/@guziordv"
+  mastodon         : 
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-7019-3261"
   pinterest        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DVGMicrobe"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
