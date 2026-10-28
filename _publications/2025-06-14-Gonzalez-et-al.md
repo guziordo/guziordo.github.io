@@ -1,0 +1,15 @@
+---
+title: "Microenvironmental effects of a non-antibiotic therapy for a chronic polymicrobial infection alter microbial physiology, competition, and virulence"
+collection: publications
+permalink: /publication/2025-06-14-Gonzalez-et-al
+excerpt: 'Modeling the effects of Elexacaftor-Tezacaftor-Ivacaftor therapy on airway mucus shows that reduced nutrient availability dampens _Pseudomonas aeruginosa_ virulence factor production, reducing competition and toxicity in cystic fibrosis lung communities.'
+date: 2025-06-14
+venue: 'The ISME Journal'
+paperurl: 'https://doi.org/10.1093/ismejo/wraf125'
+citation: 'González CT, Martin C, Crane M, Gutierrez K, Thomas J, Remisoski L, Okros M, Fu Y, Guzior DV, Finkhouse D, Bridges C, Mielke J, Querido G, Padillo L, Girgis R, McClelland M, Conrad D, Li X, Quinn RA. 2025. Microenvironmental effects of a non-antibiotic therapy for a chronic polymicrobial infection alter microbial physiology, competition, and virulence. ISME J 19:wraf125.'
+---
+[PDF Download]({{ site.baseurl }}/files/Gonzalez_et_al_2025.pdf)
+
+# Abstract
+
+People with cystic fibrosis (pwCF) have reduced mucociliary clearance in their airways, leading to the build-up of thick, sticky mucus susceptible to opportunistic infection. A new treatment, comprised of three small molecule drugs called Elexacaftor/Tezacaftor/Ivacaftor (ETI), has improved mucociliary clearance and lung function in pwCF, but how this therapy alters lung infections is poorly understood. This study experimentally modeled the biochemical changes in airway mucus caused by ETI to determine its effect on the CF lung microbiome structure and function. We prepared Artificial Sputum Medium (ASM) with reduced primary carbon sources (amino acids, deoxyribonucleic acid DNA, and mucin) to mimic the effects of ETI on mucus biochemistry due to improved mucociliary clearance and reduced pulmonary inflammation. The control and modified ASM were inoculated with pure CF pathogens or mixed-species communities and then grown in oxic and anoxic conditions, followed by multi-omics data analysis. Although oxygen strongly altered the community structure, the nutrient depletions in ASM had little effect. Instead, the reduced carbon sources altered the physiology of the collective community and its individual pathogens. This included modified growth kinetics in addition to altered nitrogen and nucleotide metabolism. Under reduced amino acid concentrations, a known effect of ETI on the sputum metabolome, the production of both *Pseudomonas aeruginosa*'s quinolones and rhamnolipids was significantly reduced. This indirect effect of ETI translates to reduced killing of competing pathogens and reduced toxicity to epithelial cells isolated from the airways of explanted human lung tissues. These findings indicate that ETI may provide further benefit to pwCF by reducing the competition and virulence of its principal pathogen and highlight how microenvironmental effects can have powerful impacts on polymicrobial infections.

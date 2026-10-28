@@ -8,6 +8,7 @@ venue: 'Nature Metabolism'
 paperurl: 'https://doi.org/10.1038/s42255-023-00773-3'
 citation: 'Quinn RA, Martin C, Guzior DV. 2023. A multi-omic trip through the human gut. Nat Metab 5(5): 720–721.'
 ---
+[PDF Download]({{ site.baseurl }}/files/Quinn_et_al_2023.pdf)
 
 # Excerpt
 

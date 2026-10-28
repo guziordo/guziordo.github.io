@@ -5,10 +5,10 @@ permalink: /publication/2024-11-14-Wu-and-Guzior-et-al
 excerpt: 'Uncovering the intricate connections between the development of the infant gut microbiome and corresponding shifts in fecal metabolite profiles, revealing dynamic interplay that may influence infant health.'
 date: 2024-11-14
 venue: 'Communications Biology'
-paperurl: 'https://doi.org/10.1038/s42003-024-07015-6.'
+paperurl: 'https://doi.org/10.1038/s42003-024-07015-6'
 citation: 'Wu H, Guzior DV, Martin C, Neugebauer KA, Rzepka MM, Lumeng JC, Quinn RA, de los Campos G. 2024. Longitudinal analyses of infants microbiome and metabolome reveal microbes and metabolites with seemingly coordinated dynamics. Commun Biol 7:1506.'
 ---
-[PDF Download](http://guziordo.github.io/files/Wu_and_Guzior_et_al_2024.pdf)
+[PDF Download]({{ site.baseurl }}/files/Wu_and_Guzior_et_al_2024.pdf)
 
 # Abstract
 

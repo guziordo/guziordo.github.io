@@ -17,19 +17,18 @@ concurrency:
 
 jobs:
   build:
-    # FIX 1: Use 22.04 to ensure Ruby 3.1 binary compatibility
-    runs-on: ubuntu-22.04 
+    # Pinned to 22.04 for Ruby 3.1 binary compatibility
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Ruby
-        # FIX 2: Use the version tag instead of the specific long SHA for better reliability
-        uses: ruby/setup-ruby@v1 
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' 
-          bundler-cache: true 
-          cache-version: 1 
+          ruby-version: '3.1'
+          bundler-cache: true
+          cache-version: 1
 
       - name: Setup Pages
         id: pages
@@ -41,9 +40,6 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        # FIX 3: Update to v3 (for upload-pages-artifact) or ensure it matches the latest internal specs
-        # Note: actions/upload-pages-artifact@v3 is actually the current stable for Pages,
-        # but your previous error likely came from a generic 'upload-artifact@v3' elsewhere.
         uses: actions/upload-pages-artifact@v3
 
   deploy:

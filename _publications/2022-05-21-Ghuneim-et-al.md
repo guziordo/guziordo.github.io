@@ -6,9 +6,9 @@ excerpt: 'Changes in the cystic fibrosis lung can be predicted utilizing _in sil
 date: 2022-05-21
 venue: 'The ISME Journal'
 paperurl: 'https://doi.org/10.1038/s41396-022-01252-5'
-citation: 'Ghuneim LAJ, Raghuvanshi R, Neugebauer KA, Guzior DV, Martin H. C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. ISME J 16(9):2065–2075.'
+citation: 'Ghuneim LAJ, Raghuvanshi R, Neugebauer KA, Guzior DV, Martin C, Schena B, Feiner JM, Castillo-Bahena A, Mielke J, McClelland M, Conrad D, Klapper I, Zhang T, Quinn RA. 2022. Complex and unexpected outcomes of antibiotic therapy against a polymicrobial infection. ISME J 16(9):2065–2075.'
 ---
-[PDF Download](http://guziordo.github.io/files/Ghuneim_et_al_2022.pdf)
+[PDF Download]({{ site.baseurl }}/files/Ghuneim_et_al_2022.pdf)
 
 # Abstract
 

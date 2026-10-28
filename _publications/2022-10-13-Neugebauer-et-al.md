@@ -1,14 +1,14 @@
 ---
-title: "_Baat_ gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice"
+title: "_Baat_ gene knockout alters post-natal development, the gut microbiome, and reveals unusual bile acids in mice"
 collection: publications
 permalink: /publication/2022-10-13-Neugebauer-et-al
 excerpt: 'Bile acid conjugation is important for early life development of mice, as knocking out the gene responsible for canonical murine bile acid conjugation results in significant physiological deficits early in life.'
-date: 2022-05-21
+date: 2022-10-13
 venue: 'Journal of Lipid Research'
 paperurl: 'https://doi.org/10.1016/j.jlr.2022.100297'
-citation: 'Neugebauer KA, Okros M, Guzior DV, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe L, Quinn RA. 2022. Baat gene knockout alters early life development and the gut microbiome and reveals unusual bile acids in mice. J Lipid Res 63(12):100297.'
+citation: 'Neugebauer KA, Okros M, Guzior DV, Feiner J, Chargo NJ, Rzepka M, Schilmiller AL, O’Reilly S, Jones AD, Watson VE, Luyendyk JP, McCabe L, Quinn RA. 2022. Baat gene knockout alters post-natal development, the gut microbiome, and reveals unusual bile acids in mice. J Lipid Res 63(12):100297.'
 ---
-[PDF Download](http://guziordo.github.io/files/Neugebauer_et_al_2022.pdf)
+[PDF Download]({{ site.baseurl }}/files/Neugebauer_et_al_2022.pdf)
 
 # Abstract
 

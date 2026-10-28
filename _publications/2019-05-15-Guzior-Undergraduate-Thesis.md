@@ -2,7 +2,7 @@
 title: "Determining the impact of host-synovial fluid factors on _Staphylococcus aureus_ aggregation"
 collection: publications
 permalink: /publication/2019-05-15-Guzior-Undergraduate-Thesis
-excerpt: 'Investigating how host factors within synovial fluid contrubute to _S. aureus_ aggregation _in vitro_.'
+excerpt: 'Investigating how host factors within synovial fluid contribute to _S. aureus_ aggregation _in vitro_.'
 date: 2019-05-15
 venue: 'The Ohio State University'
 ---

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#### Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV.pdf). Last updated April 2025.
+#### Also available to download [here](https://guziordo.github.io/files/Douglas-Guzior-CV.pdf). Last updated April 2026.
 
 <br>
 
@@ -55,7 +55,7 @@ Dissertation: Elucidating the mechanisms behind microbial bile acid conjugation 
 Thesis: Determining the impact of host-synovial fluid factors on *Staphylococcus aureus* aggregation.
 
 # Publications
-<sup>‡</sup>Indicates equal authorship contribution. For the most up-to-date list, please check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=aAlRwjkAAAAJ) or [ORCID](orcid.org/0000-0002-7019-3261).
+<sup>‡</sup>Indicates equal authorship contribution. For the most up-to-date list, please check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=aAlRwjkAAAAJ) or [ORCID](https://orcid.org/0000-0002-7019-3261).
 
 Cornelius P, Mayes BA, Dannenberg AJ, Dufour PJ, Little S, **Guzior DV**, Petersen JS, Shanahan JM, Carver BJ. 2026. Evexomostat (SDX-7320), a methionine aminopeptidase type 2 inhibitor, stimulates weight loss and inhibits obesity-accelerated tumor growth. Front. Oncol. 16:1751681. doi: [10.3389/fonc.2026.1751681](https://doi.org/10.3389/fonc.2026.1751681)
 
@@ -73,7 +73,7 @@ Wu H<sup>‡</sup>, **Guzior DV**<sup>‡</sup>, Martin C, Neugebauer KA, Rzepka
 
 Hansen ZA, Schilmiller AL, **Guzior DV**, Rudrik JT, Quinn RA, Vasco KA, Manning SD. 2024. Shifts in the functional capacity and metabolite composition of the gut microbiome during recovery from enteric infection. Front. Cell. Infect. Microbiol. 14:1359576. doi: [10.3389/fcimb.2024.1359576](https://doi.org/10.3389/fcimb.2024.1359576)
 
-**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase/acyltransferase activity shapes bile acid diversity. Nature 626:852–858. doi: [10.1038/s41586-024-07017-8](https://doi.org/10.1038/s41586-024-07017-8)
+**Guzior DV**, Okros M, Shivel M, Armwald B, Bridges C, Fu Y, Martin C, Schilmiller AL, Miller WM, Ziegler KM, Sims MD, Maddens ME, Graham SF, Hausinger RP, Quinn RA. 2024. Bile salt hydrolase acyltransferase activity expands bile acid diversity. Nature 626:852–858. doi: [10.1038/s41586-024-07017-8](https://doi.org/10.1038/s41586-024-07017-8)
 
 Chargo NJ, Neugebauer K, **Guzior DV**, Quinn RA, Parameswaran N, McCabe LR. 2024. Glucocorticoid-induced osteoporosis is prevented by dietary prune in female mice. Front. Cell. Dev. Biol. 11:1324649. doi: [10.3389/fcell.2023.1324649](https://doi.org/10.3389/fcell.2023.1324649)
 
